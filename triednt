@@ -1,4 +1,3 @@
-local Button = Section.NewButton("BedWars",function()
 notificationGui = Instance.new("ScreenGui")
 notificationGui.Name = "NotificationGui"
 notificationGui.Parent = game.Players.LocalPlayer.PlayerGui
